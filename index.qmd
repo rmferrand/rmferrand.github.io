@@ -2,6 +2,8 @@
 title: "Home"
 ---
 
-# Welcome to My Website
+![Image 1](images/1unedit.png){fig-align="center" width=29.5%}
+![Image 2](images/1.5.jpg){fig-align="center" width=33% style="filter: brightness(.90)"}
+![Image 3](images/2.PNG){fig-align="center" width=30%}
 
-Use the navigation bar above to explore the site!
+Hi! I'm Robbie, a Data Scientist/Statistician passionate about using statistics for the right reasons. This is my website, where I display parts of myself to hopefully give you a good idea of what I'm about :).

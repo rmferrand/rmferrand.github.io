@@ -1,11 +1,23 @@
 project:
+  output-dir: docs 
   type: website
 
 website:
-  title: "My Sample Website"
   navbar:
+    title: "Robbie Michael Ferrand"
     left:
-      - text: "About Me"
-        href: about.qmd
-      - text: "Hello!"
-        href: hello.qmd
+      - text: "Projects and Past Work"
+        menu:
+        - href: mobiledata.html
+          text: "Mobile Data Exploratory Analysis"
+        - href: project2.html
+          text: "Project 2"
+      - text: "Education History"
+        href: education.html
+      - text: "Hobbies and Interests"
+        href: interest.html
+      - text: "Contact Me"
+        href: contact.html
+
+resources:
+  - images 
