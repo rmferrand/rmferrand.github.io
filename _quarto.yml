@@ -4,7 +4,7 @@ project:
 
 website:
   navbar:
-    title: "Robbie Michael Ferrand"
+    title: "ROBBIE MICHAEL FERRAND"
     left:
       - text: "Projects and Past Work"
         menu:
@@ -20,4 +20,10 @@ website:
         href: contact.html
 
 resources:
-  - images 
+  - images
+
+format:
+  html:
+    include-before-body: _includes/card.html
+    theme: united
+    css: styles.css

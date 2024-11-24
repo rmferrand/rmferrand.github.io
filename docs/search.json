@@ -1,37 +1,44 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Hi!"
-  },
-  {
-    "objectID": "interest.html",
-    "href": "interest.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Welcome to my website! Click here to visit an external link."
-  },
-  {
-    "objectID": "education.html",
-    "href": "education.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Welcome to my website! Click here to visit an external link."
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact Me",
     "section": "",
-    "text": "Email\nLinkedIn"
+    "text": "Robbie Michael Ferrand\n  \n  Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\nEmail: robertferrand@gmail.com\nLinkedIn: https://www.linkedin.com/in/robert-ferrand/"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Robbie Michael Ferrand\n  \n  Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Welcome!",
     "section": "",
-    "text": "Hi! I’m Robbie, a Data Scientist/Statistician passionate about using statistics for the right reasons. This is my website, where I display parts of myself to hopefully give you a good idea of what I’m about :)."
+    "text": "Robbie Michael Ferrand\n  \n  Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\n\n  \n\n\nIntroduction\n\n\nHi! I’m Robbie, a Data Professional passionate about using statistics for the right reasons. I have five years of experience in Data Analytics, Data Science, Research, and Statistician based work. On this website, you will find snippets of my past work, as well as more information about who I am :). If you have any questions, feel free to reach out!\n\n\nQuick Links\n\n\nProjects Education Hobbies and Interests Contact Me"
+  },
+  {
+    "objectID": "interest.html",
+    "href": "interest.html",
+    "title": "Hobbies and Interests",
+    "section": "",
+    "text": "Robbie Michael Ferrand\n  \n  Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\n\n🎾 I’m an avid Tennis enjoyer. I play at the 3.5/4.0 NTRP level and consider myself an aggressive baseliner.\n🏃 I am a (newbie!) long-distance runner. Hoping to run some more half-marathons in 2025 and run a full marathon in 2026. I love to run in forested, shrubby environments where nature is aplenty!\n☀️️ I’m from Florida, specifically the Tampa/Orlando areas. Although the beach has my heart forever, I enjoy the moderate climate in the Carolinas and plan to reside here permanently. :)\n🗣️ I love public speaking - teaching was a lot of fun because it gave me an avenue to explore speaking to a large group regularly. When I present my research and ideas, I prefer the room to be large and the audience to be full.\n🎮 I tend to enjoy board games and video games, particularly the fast-paced competitive kind. Whatever allows me to coordinate with my friends and kick butt!"
+  },
+  {
+    "objectID": "mobiledata.html",
+    "href": "mobiledata.html",
+    "title": "",
+    "section": "",
+    "text": "Robbie Michael Ferrand\n  \n  Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "PROJECTS",
+    "section": "",
+    "text": "Robbie Michael Ferrand\n  \n  Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\nHi!"
   }
 ]

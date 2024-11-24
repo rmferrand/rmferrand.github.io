@@ -1,9 +1,26 @@
 ---
-title: "Home"
+title: "Welcome!"
 ---
 
-![Image 1](images/1unedit.png){fig-align="center" width=29.5%}
-![Image 2](images/1.5.jpg){fig-align="center" width=33% style="filter: brightness(.90)"}
-![Image 3](images/2.PNG){fig-align="center" width=30%}
 
-Hi! I'm Robbie, a Data Scientist/Statistician passionate about using statistics for the right reasons. This is my website, where I display parts of myself to hopefully give you a good idea of what I'm about :).
+
+<div class="image-row">
+  <img src="images/1unedit.png" alt="Image 1" style="width:31.28755%">
+  <img src="images/1.5.jpg" alt="Image 2" style="width:35%; filter: brightness(0.95);">
+  <img src="images/2.PNG" alt="Image 3" style="width:31.81818%">
+</div>
+
+<h3> Introduction </h3>
+<p> Hi! I'm Robbie, a Data Professional passionate about using statistics for the right reasons. I have five years of experience in Data Analytics, Data Science, Research, and Statistician based work. On this website, you will find snippets of my past work, as well as more information about who I am :). If you have any questions, feel free to reach out! </p>
+
+<h3 style="text-align: center;">Quick Links</h3>
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+  <a href="projects.html" style="text-decoration: none; color: white; background-color: #FF4500; padding: 10px 20px; border-radius: 5px;">Projects</a>
+  <a href="education.html" style="text-decoration: none; color: white; background-color: #FF6347; padding: 10px 20px; border-radius: 5px;">Education</a>
+  <a href="interest.html" style="text-decoration: none; color: white; background-color: #FF7F50; padding: 10px 20px; border-radius: 5px;">Hobbies and Interests</a>
+  <a href="contact.html" style="text-decoration: none; color: white; background-color: #FFA07A; padding: 10px 20px; border-radius: 5px;">Contact Me</a>
+</div>
+
+
+
+

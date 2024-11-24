@@ -2,6 +2,6 @@
 title: "Contact Me"
 ---
 
-[Email](robertferrand@gmail.com)
+[Email: robertferrand@gmail.com](mailto:robertferrand@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/robert-ferrand/)
+[LinkedIn: https://www.linkedin.com/in/robert-ferrand/](https://www.linkedin.com/in/robert-ferrand/)
