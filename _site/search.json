@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "hello.html",
+    "href": "hello.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "Hello!\nWelcome to my website! Click here to visit an external link."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About Me\nHello! I’m [Your Name], and this is a small description about me. I enjoy working on web projects, data analysis, and learning new technologies."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to My Website\nUse the navigation bar above to explore the site!"
+  }
+]
