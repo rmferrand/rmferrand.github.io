@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Welcome to My Website\nUse the navigation bar above to explore the site!"
+    "text": "Welcome to my website! Click here to visit an external link."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact Me",
     "section": "",
-    "text": "Email LinkedIn"
+    "text": "Email\nLinkedIn"
   },
   {
     "objectID": "about.html",
@@ -21,10 +21,10 @@
     "text": "Hi! I’m Robbie, a Data Scientist/Statistician passionate about using statistics for the right reasons. This is my website, where I display parts of myself to hopefully give you a good idea of what I’m about :)."
   },
   {
-    "objectID": "hello.html",
-    "href": "hello.html",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
     "section": "",
-    "text": "Welcome to my website! Click here to visit an external link."
+    "text": "Welcome to My Website\nUse the navigation bar above to explore the site!"
   }
 ]
