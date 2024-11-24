@@ -1,23 +1,30 @@
 [
   {
-    "objectID": "hello.html",
-    "href": "hello.html",
-    "title": "Hello!",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
     "section": "",
-    "text": "Hello!\nWelcome to my website! Click here to visit an external link."
+    "text": "Welcome to My Website\nUse the navigation bar above to explore the site!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Email LinkedIn"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "About Me\nHello! I’m [Your Name], and this is a small description about me. I enjoy working on web projects, data analysis, and learning new technologies."
+    "text": "Hi! I’m Robbie, a Data Scientist/Statistician passionate about using statistics for the right reasons. This is my website, where I display parts of myself to hopefully give you a good idea of what I’m about :)."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "hello.html",
+    "href": "hello.html",
+    "title": "Projects",
     "section": "",
-    "text": "Welcome to My Website\nUse the navigation bar above to explore the site!"
+    "text": "Welcome to my website! Click here to visit an external link."
   }
 ]
