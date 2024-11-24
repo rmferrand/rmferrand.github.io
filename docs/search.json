@@ -4,6 +4,20 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
+    "text": "Hi!"
+  },
+  {
+    "objectID": "interest.html",
+    "href": "interest.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Welcome to my website! Click here to visit an external link."
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Projects",
+    "section": "",
     "text": "Welcome to my website! Click here to visit an external link."
   },
   {
@@ -14,17 +28,10 @@
     "text": "Email\nLinkedIn"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Hi! I’m Robbie, a Data Scientist/Statistician passionate about using statistics for the right reasons. This is my website, where I display parts of myself to hopefully give you a good idea of what I’m about :)."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Welcome to My Website\nUse the navigation bar above to explore the site!"
+    "text": "Hi! I’m Robbie, a Data Scientist/Statistician passionate about using statistics for the right reasons. This is my website, where I display parts of myself to hopefully give you a good idea of what I’m about :)."
   }
 ]
