@@ -5,6 +5,6 @@ format:
     include-before-body: _includes/card.html
 ---
 
-[Email: robertferrand@gmail.com](mailto:robertferrand@gmail.com)
+[Email: robertmferrand@gmail.com](mailto:robertmferrand@gmail.com)
 
 [LinkedIn: https://www.linkedin.com/in/robert-ferrand/](https://www.linkedin.com/in/robert-ferrand/)
