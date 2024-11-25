@@ -1,12 +1,96 @@
-<div style="position: fixed; top: 100px; left: 30px; width: 300px; text-align: center; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); padding: 20px; background-color: white; z-index: 1000;">
-  <p style="margin: 5px 0; font-size: 1.2rem; color: black;">Robbie Michael Ferrand</p>
-  <img src="images/1.5.jpg" alt="Profile Picture" style="width: 120px; height: 120px; border-radius: 50%; margin-bottom: 15px; object-fit: cover;">
-  <p style="margin: 5px 0; font-size: 1rem; color: #666;">📊Statistician/Data Scientist</p>
-  <p style="margin: 5px 0; font-size: 0.9rem; color: #888;">📍 Raleigh, North Carolina</p>
-  <p style="margin: 5px 0; font-size: 0.9rem; color: #888;">🎓 M.R in Statistics</p>
-  <p style="margin: 5px 0; font-size: 0.9rem; color: #888;">🏫 North Carolina State University</p>
-  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
-    <a href="mailto:robertmferrand@gmail.com" style="text-decoration: none; color: #555;">✉ Email</a>
-    <a href="https://www.linkedin.com/in/robert-ferrand/" target="_blank" style="text-decoration: none; color: #0077b5;">🔗 LinkedIn</a>
+<div id="profile-card">
+  <p class="card-name">Robbie Michael Ferrand</p>
+  <img src="images/1.5.jpg" alt="Profile Picture" class="card-image">
+  <p class="card-title">Statistician/Data Scientist</p>
+  <p class="card-location">📍 Raleigh, North Carolina</p>
+  <p class="card-degree">🎓 M.R in Statistics</p>
+  <p class="card-university">🏫 North Carolina State University</p>
+  <div class="card-links">
+    <a href="mailto:robertferrand@gmail.com" class="card-link">✉ Email</a>
+    <a href="https://linkedin.com/in/your-profile" target="_blank" class="card-link">🔗 LinkedIn</a>
   </div>
 </div>
+
+<style>
+  /* Profile Card Styling */
+  #profile-card {
+    position: absolute; 
+    top: 108px; 
+    left: 30px; 
+    width: 300px; 
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    z-index: 1000; 
+  }
+
+  .card-name {
+    margin: 5px 0;
+    font-size: 1.2rem;
+    color: black;
+  }
+
+  .card-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    object-fit: cover;
+  }
+
+  .card-title, .card-location, .card-degree, .card-university {
+    margin: 5px 0;
+    font-size: 0.9rem;
+    color: #666;
+  }
+
+  .card-links {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 15px;
+  }
+
+  .card-link {
+    text-decoration: none;
+    color: #555;
+    font-size: 0.9rem;
+  }
+
+  .card-link:hover {
+    color: #0077b5; 
+  }
+
+  body {
+    margin-left: 280px; 
+  }
+
+  @media (max-width: 768px) {
+    #profile-card {
+      position: absolute; 
+      top: 108px; 
+      left: 15px;
+      width: 260px; 
+    }
+
+    body {
+      margin-left: 300px; 
+    }
+  }
+
+  @media (max-width: 480px) {
+    #profile-card {
+      position: absolute; 
+      top: 108px; 
+      left: 10px; 
+      width: 240px; 
+    }
+
+    body {
+      margin-left: 320px;  
+    }
+  }
+</style>

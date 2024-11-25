@@ -28,6 +28,7 @@ resources:
 
 format:
   html:
+    include-before-body: _includes/card.html
     theme: united
     css: styles.css
     
