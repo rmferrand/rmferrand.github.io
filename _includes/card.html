@@ -69,35 +69,12 @@
   }
 
   @media (max-width: 768px) {
+    /* Hide the profile card on smaller screens */
     #profile-card {
-      position: absolute; 
-      top: 108px; 
-      left: 15px;
-      width: 260px; 
+      display: none;
     }
-
     body {
-      margin-left: 300px; 
-    }
-  }
-
-  @media (max-width: 480px) {
-    #profile-card {
-      position: absolute; 
-      top: 108px; 
-      left: 10px; 
-      width: 240px; 
-    }
-    
-  @media (max-width: 768px) {
-    div a {
-      padding: 8px 15px; /* Reduce padding for smaller screens */
-      font-size: 0.9rem; /* Adjust font size if necessary */
-    }
-  }
-
-    body {
-      margin-left: 320px;  
+      margin-left: 0; /* Adjust margin to compensate for removed card */
     }
   }
 </style>
