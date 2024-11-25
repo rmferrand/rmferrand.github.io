@@ -25,11 +25,11 @@ format:
   <img src="images/ucf.png" alt="ucf" style="width: 200px; height: auto;">
   <div>
   <p style="margin: 0;">University of Central Florida</p>
-  <p style="margin: 0;">August 2018 - August 2021</p>
+  <p style="margin: 0;">August 2018 - December 2021</p>
   <p style="margin: 0; margin-bottom: 10px;">Bachelor of Science in Statistics (BS)</p>
   <p style="margin: 0; ">College of Sciences Valedictorian</p>
   <p style="margin: 0;">GPA: 4.0/4.0</p>
-  <p style="margin: 0;">Duke Energy Undergradute Research Fellowship</p>
+  <p style="margin: 0;">Duke Energy Undergraduate Research Fellowship</p>
   </div>
   </div>
 </div>
