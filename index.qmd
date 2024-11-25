@@ -1,25 +1,31 @@
 ---
 title: "Welcome!"
+format:
+  html:
+    include-before-body: _includes/card.html
 ---
 
 
 
 <div class="image-row">
   <img src="images/1unedit.png" alt="Image 1" style="width:31.28755%">
-  <img src="images/1.5.jpg" alt="Image 2" style="width:35%; filter: brightness(0.95);">
+  <img src="images/1.5.jpg" alt="Image 2" style="width:35.15%; filter: brightness(0.95);">
   <img src="images/2.PNG" alt="Image 3" style="width:31.81818%">
 </div>
 
 <h3> Introduction </h3>
 <p> Hi! I'm Robbie, a Data Professional passionate about using statistics for the right reasons. I have five years of experience in Data Analytics, Data Science, Research, and Statistician based work. On this website, you will find snippets of my past work, as well as more information about who I am :). If you have any questions, feel free to reach out! </p>
 
-<h3 style="text-align: center;">Quick Links</h3>
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+<h3>Quick Links</h3>
+<div style="display: flex; gap: 10px; margin-top: 10px;">
   <a href="projects.html" style="text-decoration: none; color: white; background-color: #FF4500; padding: 10px 20px; border-radius: 5px;">Projects</a>
-  <a href="education.html" style="text-decoration: none; color: white; background-color: #FF6347; padding: 10px 20px; border-radius: 5px;">Education</a>
-  <a href="interest.html" style="text-decoration: none; color: white; background-color: #FF7F50; padding: 10px 20px; border-radius: 5px;">Hobbies and Interests</a>
-  <a href="contact.html" style="text-decoration: none; color: white; background-color: #FFA07A; padding: 10px 20px; border-radius: 5px;">Contact Me</a>
+  <a href="work_experience.html" style="text-decoration: none; color: white; background-color: #FF6347; padding: 10px 20px; border-radius: 5px;">Work Experience</a>
+  <a href="education.html" style="text-decoration: none; color: white; background-color: #FF7F50; padding: 10px 20px; border-radius: 5px;">Education</a>
+  <a href="resume.html" style="text-decoration: none; color: white; background-color: #FFA07A; padding: 10px 20px; border-radius: 5px;">Resume</a>
+  <a href="interest.html" style="text-decoration: none; color: white; background-color: #fab89d; padding: 10px 20px; border-radius: 5px;">Interests</a>
+  <a href="contact.html" style="text-decoration: none; color: white; background-color: #facfbe; padding: 10px 20px; border-radius: 5px;">Contact Me</a>
 </div>
+
 
 
 

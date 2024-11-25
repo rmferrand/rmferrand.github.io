@@ -6,14 +6,18 @@ website:
   navbar:
     title: "ROBBIE MICHAEL FERRAND"
     left:
-      - text: "Projects and Past Work"
+      - text: "Projects"
         menu:
         - href: mobiledata.html
           text: "Mobile Data Exploratory Analysis"
-        - href: project2.html
-          text: "Project 2"
-      - text: "Education History"
+        - href: turtles.html
+          text: "Metal Concentrations in Turtles"
+      - text: "Work Experience"
+        href: work.html
+      - text: "Education"
         href: education.html
+      - text: "Resume"
+        href: resume.html
       - text: "Hobbies and Interests"
         href: interest.html
       - text: "Contact Me"
@@ -24,6 +28,8 @@ resources:
 
 format:
   html:
-    include-before-body: _includes/card.html
     theme: united
     css: styles.css
+    
+    
+

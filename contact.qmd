@@ -1,5 +1,8 @@
 ---
 title: "Contact Me"
+format:
+  html:
+    include-before-body: _includes/card.html
 ---
 
 [Email: robertferrand@gmail.com](mailto:robertferrand@gmail.com)

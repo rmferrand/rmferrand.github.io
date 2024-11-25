@@ -1,5 +1,8 @@
 ---
 title: "PROJECTS"
+format:
+  html:
+    include-before-body: _includes/card.html
 ---
 
 
