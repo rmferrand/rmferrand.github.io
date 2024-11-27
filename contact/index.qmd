@@ -1,10 +1,13 @@
 ---
-title: "Contact Me"
 format:
   html:
-    include-before-body: _includes/card.html
+    include-before-body: ../_includes/card.html
 ---
 
+
+<div id="page-content">
+<h1> Contact Me </h1>
 [Email: robertmferrand@gmail.com](mailto:robertmferrand@gmail.com)
 
 [LinkedIn: https://www.linkedin.com/in/robert-ferrand/](https://www.linkedin.com/in/robert-ferrand/)
+</div>

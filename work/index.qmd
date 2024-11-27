@@ -1,14 +1,15 @@
 ---
-title: "Work Experience"
 format:
   html:
-    include-before-body: _includes/card.html
+    include-before-body: ../_includes/card.html
 ---
 
 
+<div id="page-content">
+<h1> Work Experience </h1>
 <div style="margin-bottom: 50px;"> <!-- Wrapper for first section -->
   <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/ncsu.jpg" alt="ncsu" style="width: 200px; height: auto;">
+  <img src="../images/ncsu.jpg" alt="ncsu" style="width: 200px; height: auto;">
   <div>
   <p style="margin: 0;">North Carolina State University</p>
   <p style="margin: 0;">August 2023 - December 2024</p>
@@ -19,7 +20,7 @@ format:
 
 <div> <!-- Wrapper for second section -->
   <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/dhs.png" alt="dhs" style="width: 200px; height: auto;">
+  <img src="../images/dhs.png" alt="dhs" style="width: 200px; height: auto;">
   <div>
   <p style="margin: 0;">U.S Department Of Homeland Security</p>
   <p style="margin: 0;">January 2022 - July 2023</p>
@@ -28,3 +29,4 @@ format:
   <p style="margin: 0;">Data Scientist I</p>
   </div>
   </div>
+</div>

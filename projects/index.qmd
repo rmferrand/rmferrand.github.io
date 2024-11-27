@@ -1,0 +1,15 @@
+---
+format:
+  html:
+    include-before-body: ../_includes/card.html
+---
+
+
+<div id="page-content">
+<h1> Projects </h1>
+The following projects are the most recent self-directed projects I have completed. 
+
+[Mobile Data Exploratory Analysis](mobiledata.html) is a project that utilizes RShiny to create a user-based data exploration app. The app offers the ability to view, subset, download, analyze, and graph the data. This app was created to complete the project requirements outlined in ST558, Data Science for Statisticians at North Carolina State University. Although a relatively simple app, I believe it is a showcase for my programming knowledge in R as well as my ability to make something client-centered.
+
+[Metal Concentration in Turtles](turtles.html) is a project that displays explorative data analysis, high-dimensional statistical modeling, and curated conclusion making. The real data has been censored for the privacy of the publisher, but my statistical contributions are still visible. This project was created in conjunction with ST542, Statistical Consulting at North Carolina State University. After a semester long research project working with the client and their data, I was offered (and accepted) co-authorship on the paper due to my statistical contributions.
+</div>

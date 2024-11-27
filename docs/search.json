@@ -1,45 +1,45 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Me",
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "\nContact Me\n",
     "section": "",
-    "text": "Robbie Michael Ferrand\n  \n  📊Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\n\n\nEmail: robertmferrand@gmail.com\nLinkedIn: https://www.linkedin.com/in/robert-ferrand/"
+    "text": "Robbie Michael Ferrand\n  \n  📊Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\n\n\n\n\nContact Me\n\nEmail: robertmferrand@gmail.com\nLinkedIn: https://www.linkedin.com/in/robert-ferrand/"
   },
   {
-    "objectID": "education.html",
-    "href": "education.html",
-    "title": "Education",
+    "objectID": "education/index.html",
+    "href": "education/index.html",
+    "title": "\nEducation\n",
     "section": "",
-    "text": "Robbie Michael Ferrand\n  \n  📊Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\n\n\n\n\n\n\n\n\nNorth Carolina State University\n\n\nAugust 2023 - December 2024\n\n\nMaster of Science in Statistics (MR)\n\n\nPhD Core Coursework\n\n\nGPA: 3.7/4.0 (Projected)\n\n\nUniversity Graduate Fellowship\n\n\n\n\n\n\n\n\n\n\nUniversity of Central Florida\n\n\nAugust 2018 - December 2021\n\n\nBachelor of Science in Statistics (BS)\n\n\nCollege of Sciences Valedictorian\n\n\nGPA: 4.0/4.0\n\n\nDuke Energy Undergraduate Research Fellowship"
+    "text": "Robbie Michael Ferrand\n  \n  📊Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\n\n\n\n\nEducation\n\n\n\n\n\n\n\nNorth Carolina State University\n\n\nAugust 2023 - December 2024\n\n\nMaster of Science in Statistics (MR)\n\n\nPhD Core Coursework\n\n\nGPA: 3.7/4.0 (Projected)\n\n\nUniversity Graduate Fellowship\n\n\n\n\n\n\n\n\n\n\nUniversity of Central Florida\n\n\nAugust 2018 - December 2021\n\n\nBachelor of Science in Statistics (BS)\n\n\nCollege of Sciences Valedictorian\n\n\nGPA: 4.0/4.0\n\n\nDuke Energy Undergraduate Research Fellowship"
+  },
+  {
+    "objectID": "hobbies/index.html",
+    "href": "hobbies/index.html",
+    "title": "\nHobbies and Interests\n",
+    "section": "",
+    "text": "Robbie Michael Ferrand\n  \n  📊Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\n\n\n\n\nHobbies and Interests\n\n🎾 I’m an avid Tennis enjoyer. I play at the 3.5/4.0 NTRP level and consider myself an aggressive baseliner.\n🏃 I am a (newbie!) long-distance runner. Hoping to run some more half-marathons in 2025 and run a full marathon in 2026. I love to run in forested, shrubby environments where nature is aplenty!\n☀️️ I’m from Florida, specifically the Tampa/Orlando areas. Although the beach has my heart forever, I enjoy the moderate climate in the Carolinas and plan to reside here permanently. :)\n🗣️ I love public speaking - teaching was a lot of fun because it gave me an avenue to explore speaking to a large group regularly. When I present my research and ideas, I prefer the room to be large and the audience to be full.\n🎮 I tend to enjoy board games and video games, particularly the fast-paced competitive kind. Whatever allows me to coordinate with my friends and kick butt!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome!",
+    "title": "\nWelcome!\n",
     "section": "",
-    "text": "Robbie Michael Ferrand\n  \n  📊Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\n\n\n\n  \n\n\nIntroduction\n\n\nHi! I’m Robbie, a Data Professional passionate about using statistics for the right reasons. I have five years of experience in Data Analytics, Data Science, Research, and Statistician based work. On this website, you will find snippets of my past work, as well as more information about who I am :). If you have any questions, feel free to reach out!\n\n\nQuick Links\n\n\nProjects Work Experience Education Resume Interests Contact Me"
+    "text": "Robbie Michael Ferrand\n  \n  📊Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\n\n\n\n\nWelcome!\n\n\n  \n\n\nIntroduction\n\n\nHi! I’m Robbie, a Data Professional passionate about using statistics for the right reasons. I have five years of experience in Data Analytics, Data Science, Research, and Statistician based work. On this website, you will find snippets of my past work, as well as more information about who I am :). If you have any questions, feel free to reach out!\n\n\nQuick Links\n\n\nProjects Work Experience Education Resume Interests Contact Me"
   },
   {
-    "objectID": "interest.html",
-    "href": "interest.html",
-    "title": "Hobbies and Interests",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "\nProjects\n",
     "section": "",
-    "text": "Robbie Michael Ferrand\n  \n  📊Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\n\n\n🎾 I’m an avid Tennis enjoyer. I play at the 3.5/4.0 NTRP level and consider myself an aggressive baseliner.\n🏃 I am a (newbie!) long-distance runner. Hoping to run some more half-marathons in 2025 and run a full marathon in 2026. I love to run in forested, shrubby environments where nature is aplenty!\n☀️️ I’m from Florida, specifically the Tampa/Orlando areas. Although the beach has my heart forever, I enjoy the moderate climate in the Carolinas and plan to reside here permanently. :)\n🗣️ I love public speaking - teaching was a lot of fun because it gave me an avenue to explore speaking to a large group regularly. When I present my research and ideas, I prefer the room to be large and the audience to be full.\n🎮 I tend to enjoy board games and video games, particularly the fast-paced competitive kind. Whatever allows me to coordinate with my friends and kick butt!"
+    "text": "Robbie Michael Ferrand\n  \n  📊Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\n\n\n\n\nProjects\n\nThe following projects are the most recent self-directed projects I have completed.\nMobile Data Exploratory Analysis is a project that utilizes RShiny to create a user-based data exploration app. The app offers the ability to view, subset, download, analyze, and graph the data. This app was created to complete the project requirements outlined in ST558, Data Science for Statisticians at North Carolina State University. Although a relatively simple app, I believe it is a showcase for my programming knowledge in R as well as my ability to make something client-centered.\nMetal Concentration in Turtles is a project that displays explorative data analysis, high-dimensional statistical modeling, and curated conclusion making. The real data has been censored for the privacy of the publisher, but my statistical contributions are still visible. This project was created in conjunction with ST542, Statistical Consulting at North Carolina State University. After a semester long research project working with the client and their data, I was offered (and accepted) co-authorship on the paper due to my statistical contributions."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "resume/index.html",
+    "href": "resume/index.html",
+    "title": "\nResume\n",
     "section": "",
-    "text": "Robbie Michael Ferrand\n  \n  📊Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\n\n\nThe following projects are the most recent self-directed projects I have completed.\nMobile Data Exploratory Analysis is a project that utilizes RShiny to create a user-based data exploration app. The app offers the ability to view, subset, download, analyze, and graph the data. This app was created to complete the project requirements outlined in ST558, Data Science for Statisticians at North Carolina State University. Although a relatively simple app, I believe it is a showcase for my programming knowledge in R as well as my ability to make something client-centered.\nMetal Concentration in Turtles is a project that displays explorative data analysis, high-dimensional statistical modeling, and curated conclusion making. The real data has been censored for the privacy of the publisher, but my statistical contributions are still visible. This project was created in conjunction with ST542, Statistical Consulting at North Carolina State University. After a semester long research project working with the client and their data, I was offered (and accepted) co-authorship on the paper due to my statistical contributions."
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "Robbie Michael Ferrand\n  \n  📊Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn"
+    "text": "Robbie Michael Ferrand\n  \n  📊Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\n\n\n\n\nResume"
   },
   {
     "objectID": "turtles.html",
@@ -49,10 +49,10 @@
     "text": "Adding soon!"
   },
   {
-    "objectID": "work.html",
-    "href": "work.html",
-    "title": "Work Experience",
+    "objectID": "work/index.html",
+    "href": "work/index.html",
+    "title": "\nWork Experience\n",
     "section": "",
-    "text": "Robbie Michael Ferrand\n  \n  📊Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\n\n\n\n\n\n\n\n\nNorth Carolina State University\n\n\nAugust 2023 - December 2024\n\n\nGraduate Student Instructor\n\n\n\n\n\n\n\n\n\n\nU.S Department Of Homeland Security\n\n\nJanuary 2022 - July 2023\n\n\nData Scientist II\n\n\nJanuary 2020 - December 2021\n\n\nData Scientist I"
+    "text": "Robbie Michael Ferrand\n  \n  📊Statistician/Data Scientist\n  📍 Raleigh, North Carolina\n  🎓 M.R in Statistics\n  🏫 North Carolina State University\n  \n    ✉ Email\n    🔗 LinkedIn\n  \n\n\n\n\n\n\n\n\nWork Experience\n\n\n\n\n\n\n\nNorth Carolina State University\n\n\nAugust 2023 - December 2024\n\n\nGraduate Student Instructor\n\n\n\n\n\n\n\n\n\n\nU.S Department Of Homeland Security\n\n\nJanuary 2022 - July 2023\n\n\nData Scientist II\n\n\nJanuary 2020 - December 2021\n\n\nData Scientist I"
   }
 ]

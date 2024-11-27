@@ -1,12 +1,11 @@
 ---
-title: "Welcome!"
 format:
   html:
     include-before-body: _includes/card.html
 ---
 
-
-
+<div id="page-content">
+<h1> Welcome! </h1>
 <div class="image-row">
   <img src="images/1unedit.png" alt="Image 1" style="width:31.28755%">
   <img src="images/1.5.jpg" alt="Image 2" style="width:35.15%; filter: brightness(0.95);">
@@ -25,7 +24,7 @@ format:
   <a href="interest.html" style="text-decoration: none; color: white; background-color: #fab89d; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Interests</a>
   <a href="contact.html" style="text-decoration: none; color: white; background-color: #facfbe; padding: 10px 20px; border-radius: 5px; flex: 1 1 auto; text-align: center;">Contact Me</a>
 </div>
-
+</div>
 
 
 

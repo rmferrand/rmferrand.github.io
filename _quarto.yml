@@ -3,25 +3,28 @@ project:
   type: website
 
 website:
+  favicon: images/robbiencsu64.jpg
   navbar:
     title: "ROBBIE MICHAEL FERRAND"
     left:
       - text: "Projects"
         menu:
+        - href: projects/
+          text: "Projects Overview"
         - href: mobiledata.html
           text: "Mobile Data Exploratory Analysis"
         - href: turtles.html
           text: "Metal Concentrations in Turtles"
       - text: "Work Experience"
-        href: work.html
+        href: work/
       - text: "Education"
-        href: education.html
+        href: education/
       - text: "Resume"
-        href: resume.html
+        href: resume/
       - text: "Hobbies and Interests"
-        href: interest.html
+        href: hobbies/
       - text: "Contact Me"
-        href: contact.html
+        href: contact/
 
 resources:
   - images
@@ -30,6 +33,7 @@ format:
   html:
     theme: united
     css: styles.css
+    
     
     
 

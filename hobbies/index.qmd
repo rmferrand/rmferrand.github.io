@@ -1,10 +1,12 @@
 ---
-title: "Hobbies and Interests"
 format:
   html:
-    include-before-body: _includes/card.html
+    include-before-body: ../_includes/card.html
 ---
 
+
+<div id="page-content">
+<h1> Hobbies and Interests </h1>
 🎾 I'm an avid Tennis enjoyer. I play at the 3.5/4.0 NTRP level and consider myself an aggressive baseliner.
 
 🏃 I am a (newbie!) long-distance runner. Hoping to run some more half-marathons in 2025 and run a full marathon in 2026. I love to run in forested, shrubby environments where nature is aplenty!
@@ -14,3 +16,4 @@ format:
 🗣️ I love public speaking - teaching was a lot of fun because it gave me an avenue to explore speaking to a large group regularly. When I present my research and ideas, I prefer the room to be large and the audience to be full.
 
 🎮 I tend to enjoy board games and video games, particularly the fast-paced competitive kind. Whatever allows me to coordinate with my friends and kick butt!
+</div>
