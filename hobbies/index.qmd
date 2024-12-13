@@ -1,4 +1,5 @@
 ---
+title: "Hobbies and Interests - Robbie Ferrand"
 format:
   html:
     include-before-body: ../_includes/card.html

@@ -1,4 +1,5 @@
 ---
+title: "Education - Robbie Ferrand"
 format:
   html:
     include-before-body: ../_includes/card.html

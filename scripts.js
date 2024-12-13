@@ -18,3 +18,15 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
+
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const pageTitle = document.title;
+    const h1 = document.querySelector("h1");
+    if (h1) {
+      h1.textContent = pageTitle;
+    }
+  });
+</script>

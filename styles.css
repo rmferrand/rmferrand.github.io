@@ -3,6 +3,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Geist+Mono:wght@100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
+.quarto-title {
+  display: none !important;
+}
+
+.title {
+  display: none; /* Hide default title if necessary */
+}
+
 p {
   font-family: 'Lato', monospace;
   font-size: 1rem; 
