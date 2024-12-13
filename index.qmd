@@ -14,7 +14,9 @@ format:
 </div>
 
 <h3> Introduction </h3>
-<p> Hi! I'm Robbie, a Data Professional passionate about using statistics for the right reasons. I have five years of experience in Data Analytics, Data Science, Research, and Statistician based work. On this website, you will find snippets of my past work, as well as more information about who I am :). If you have any questions, feel free to reach out! </p>
+<p> Hi! I’m Robbie, a data professional with a [Master’s in Statistics](education/index.html) from NC State University, where I completed PhD-level core coursework in statistical methods and theory. [With almost 5 years of relevant experience](work/index.html) in data science, research, and statistician-based work, I specialize in delivering insights that empower data-driven strategies. I am proficient in R, SAS, JMP, CSS/HTML, Python, and more. This website is intended to present [snippets of my work](projects/index.html), as well as more information about [who I am](hobbies/index.html). 
+</p>
+<p>The quick links below can direct you to any page of interest on my website. :) </p>
 
 <h3>Quick Links</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; align-items: flex-start;">

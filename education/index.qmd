@@ -16,7 +16,7 @@ format:
   <p style="margin: 0;">August 2023 - December 2024</p>
   <p style="margin: 0; margin-bottom: 10px;">Master of Science in Statistics (MR)</p>
   <p style="margin: 0;">PhD Core Coursework</p>
-  <p style="margin: 0;">GPA: 3.7/4.0 (Projected)</p>
+  <p style="margin: 0;">GPA: 3.733/4.0</p>
   <p style="margin: 0;">University Graduate Fellowship</p>
   </div>
   </div>
