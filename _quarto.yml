@@ -11,10 +11,12 @@ website:
         menu:
         - href: projects/
           text: "Projects Overview"
-        - href: mobiledata.html
-          text: "Mobile Data Exploratory Analysis"
         - href: turtles.html
           text: "Metal Concentrations in Turtles"
+        - href: matric.html
+          text: "Crime Rate and Matriculation Rate of Schools"
+        - href: mobiledata.html
+          text: "Mobile Data Exploratory Analysis"
       - text: "Work Experience"
         href: work/
       - text: "Education"

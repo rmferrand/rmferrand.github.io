@@ -1,0 +1,18 @@
+---
+title: "Crime Rate and Matriculation Rate - Robbie Ferrand"
+---
+
+<h1> Crime Rate and Matriculation Rate </h1>
+<h3> Project Abstract: </h3>
+<p> Given the evidence that crime rates affect the learning ability of middle and high school students,
+this analysis focuses on trying to determine whether students across the US are using crime rates
+when picking a university or college to attend. Using a university’s matriculation rate as a response
+and crime rates as covariates, we fit a beta regression, first without and then accounting for spatial
+autocorrelation. Given the evidence that the impact of crime rates may vary for universities with
+different matriculation rates, we lastly fit a quantile regression to show that only a small range of
+universities are marginally affected by the area’s crime rate. This trend speaks to the apparent lack of
+student care in crime rates in the university’s town or city, and given the importance of local crime in
+learning, students should be made more aware of the importance of crime rates in the colleges they
+plan on attending. </p>
+
+[Click Here to View the Full Paper](assets/MatricRateCrimeRate.pdf)

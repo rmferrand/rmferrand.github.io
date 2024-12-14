@@ -5,8 +5,10 @@ format:
     include-before-body: ../_includes/card.html
 ---
 
+
 <div id="page-content">
 <h1> Resume </h1>
+[Fullscreen Edition Here](../assets/RobbieFerrand_Resume.pdf)
 <iframe 
     src="../assets/RobbieFerrand_Resume.pdf" 
     style="width: 100%; height: 800px; border: none;">
