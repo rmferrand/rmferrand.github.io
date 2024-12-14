@@ -30,3 +30,26 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 </script>
+
+
+
+// Add event listeners to all 'Roles and Responsibilities' buttons
+document.querySelectorAll('.read-more-toggle').forEach(button => {
+  button.addEventListener('click', function() {
+    const targetId = this.getAttribute('data-target');
+    const targetElement = document.querySelector(targetId);
+
+    // Toggle the active class on the button
+    this.classList.toggle('active');
+
+    // Toggle visibility of the corresponding roles content
+    if (targetElement.style.display === "none" || targetElement.style.display === "") {
+      targetElement.style.display = "block";
+    } else {
+      targetElement.style.display = "none";
+    }
+  });
+});
+
+
+

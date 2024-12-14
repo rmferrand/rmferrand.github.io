@@ -7,8 +7,13 @@ format:
 
 
 <div id="page-content">
-<h1> Contact Me </h1>
-[Email: robertmferrand@gmail.com](mailto:robertmferrand@gmail.com)
+<h1> Conact Me </h1>
 
-[LinkedIn: https://www.linkedin.com/in/robert-ferrand/](https://www.linkedin.com/in/robert-ferrand/)
+<p> Here are some other places where you can find me or reach out to me:
+
+✉ Email: [robertmferrand@gmail.com](mailto:robertmferrand@gmail.com)
+
+🔗 LinkedIn: [https://www.linkedin.com/in/robert-ferrand/](https://www.linkedin.com/in/robert-ferrand/)
+
+📝 RateMyProfessor: [https://www.ratemyprofessors.com/professor/2969719](https://www.ratemyprofessors.com/professor/2969719)
 </div>

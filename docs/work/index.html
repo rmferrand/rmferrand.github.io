@@ -327,15 +327,16 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div id="page-content">
-<h1>
-Work Experience
-</h1>
-<div style="margin-bottom: 50px;">
-<!-- Wrapper for first section -->
-<div style="display: flex; align-items: center; gap: 20px;">
-<img src="../images/ncsu.jpg" alt="ncsu" style="width: 200px; height: auto;">
-<div>
+<section id="work-experience" class="level1">
+<h1>Work Experience</h1>
+<!-- Wrapper for first section with flex layout -->
+<div style="margin-bottom: 50px; display: flex; align-items: flex-start; gap: 20px;">
+<!-- Image section with fixed width and auto height to maintain aspect ratio -->
+<div style="flex-shrink: 0;">
+<p><img src="../images/ncsu.jpg" alt="ncsu" style="width: 200px; height: auto;"></p>
+</div>
+<!-- Text content section -->
+<div style="display: flex; flex-direction: column; justify-content: flex-start; margin-top: 40px;">
 <p style="margin: 0;">
 North Carolina State University
 </p>
@@ -345,21 +346,41 @@ August 2023 - December 2024
 <p style="margin: 0;">
 Graduate Student Instructor
 </p>
+<!-- Button for toggling -->
+<button class="read-more-toggle" data-target="#ncsu-roles" style="margin-top: 10px;">
+Roles and Responsibilities
+</button>
+<!-- Content to show/hide with transition -->
+<div id="ncsu-roles" class="roles-content" style="max-height: 0; overflow: hidden; transition: max-height 0.3s ease-out;">
+<ul style="margin-top: 10px;">
+<li>
+Prepared and delivered weekly lectures and exam review sessions for 1000+ students over 3 semesters
+</li>
+<li>
+Performed administrative duties such as responding to emails, holding weekly office hours, grading exams, scheduling meetings, and collaborating with other instructors
+</li>
+<li>
+Maintained an average instructor effectiveness rating of 4.8/5 from 100+ anonymous student evaluations over three semesters
+</li>
+</ul>
 </div>
 </div>
 </div>
-<div>
-<!-- Wrapper for second section -->
-<div style="display: flex; align-items: center; gap: 20px;">
-<img src="../images/dhs.png" alt="dhs" style="width: 200px; height: auto;">
-<div>
+<!-- Wrapper for second section with flex layout -->
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+<!-- Image section with fixed width and auto height to maintain aspect ratio -->
+<div style="flex-shrink: 0;">
+<p><img src="../images/dhs.png" alt="dhs" style="width: 200px; height: auto;"></p>
+</div>
+<!-- Text content section -->
+<div style="display: flex; flex-direction: column; justify-content: flex-start; margin-top: 10px;">
 <p style="margin: 0;">
 U.S Department Of Homeland Security
 </p>
 <p style="margin: 0;">
 January 2022 - July 2023
 </p>
-<p style="margin: 0;margin-bottom: 10px;">
+<p style="margin: 0; margin-bottom: 10px;">
 Data Scientist II
 </p>
 <p style="margin: 0;">
@@ -368,13 +389,49 @@ January 2020 - December 2021
 <p style="margin: 0;">
 Data Scientist I
 </p>
+<!-- Button for toggling -->
+<button class="read-more-toggle" data-target="#dhs-roles" style="margin-top: 10px;">
+Roles and Responsibilities
+</button>
+<!-- Content to show/hide with transition -->
+<div id="dhs-roles" class="roles-content" style="max-height: 0; overflow: hidden; transition: max-height 0.3s ease-out;">
+<ul style="margin-top: 10px;">
+<li>
+Hypothesized new power outage prediction models using Bayesian analysis and probability theory, which increased disaster detection speed by 34%
+</li>
+<li>
+Simulated power outage prediction models with Python and Docker and deployed a web API with Flask to manage and automate a big database
+</li>
+<li>
+Curated statistical models and applied research findings to improve accuracy and efficiency in handling power outages by 10% and 25%, respectively
+</li>
+</ul>
 </div>
 </div>
 </div>
+<script>
+document.querySelectorAll('.read-more-toggle').forEach(button => {
+button.addEventListener('click', () => {
+const targetId = button.getAttribute('data-target');
+const targetContent = document.querySelector(targetId);
+const isVisible = targetContent.style.maxHeight !== '0px';
+
+// Toggle maxHeight for smooth expansion/collapse
+if (isVisible) {
+targetContent.style.maxHeight = '0';
+button.textContent = 'Roles and Responsibilities';
+} else {
+targetContent.style.maxHeight = targetContent.scrollHeight + 'px';
+button.textContent = 'Read Less';
+}
+});
+});
+</script>
 
 
+</section>
 
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
