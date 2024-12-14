@@ -15,4 +15,4 @@ student care in crime rates in the university’s town or city, and given the im
 learning, students should be made more aware of the importance of crime rates in the colleges they
 plan on attending. </p>
 
-[Click Here to View the Full Paper](assets/MatricRateCrimeRate.pdf)
+[Click Here to View the Full Paper](../assets/MatricRateCrimeRate.pdf)

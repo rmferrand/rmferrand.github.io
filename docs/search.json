@@ -7,11 +7,18 @@
     "text": "Robbie Michael Ferrand\n\n  \n\n  📊Statistician/Data Scientist\n\n  📍 Raleigh, North Carolina\n\n  🎓 M.R in Statistics\n\n  🏫 North Carolina State University\n\n  \n\n    ✉ Email\n\n    🔗 LinkedIn\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\nWork Experience\n\n\n\n\n\n\n\nNorth Carolina State University\n\n\nAugust 2023 - December 2024\n\n\nGraduate Student Instructor\n\n\n\n\n\n\n\n\n\n\nU.S Department Of Homeland Security\n\n\nJanuary 2022 - July 2023\n\n\nData Scientist II\n\n\nJanuary 2020 - December 2021\n\n\nData Scientist I"
   },
   {
-    "objectID": "resume/index.html",
-    "href": "resume/index.html",
-    "title": "Resume - Robbie Ferrand",
+    "objectID": "projects/turtles/index.html",
+    "href": "projects/turtles/index.html",
+    "title": "Project: Turtle Metals - Robbie Ferrand",
     "section": "",
-    "text": "Robbie Michael Ferrand\n\n  \n\n  📊Statistician/Data Scientist\n\n  📍 Raleigh, North Carolina\n\n  🎓 M.R in Statistics\n\n  🏫 North Carolina State University\n\n  \n\n    ✉ Email\n\n    🔗 LinkedIn\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\nResume\n\nFullscreen Edition Here"
+    "text": "Freshwater Turtles - Urbanization and Metal Concentrations"
+  },
+  {
+    "objectID": "projects/matriculation/index.html",
+    "href": "projects/matriculation/index.html",
+    "title": "Crime Rate and Matriculation Rate - Robbie Ferrand",
+    "section": "",
+    "text": "Crime Rate and Matriculation Rate\n\n\nProject Abstract:\n\n\nGiven the evidence that crime rates affect the learning ability of middle and high school students, this analysis focuses on trying to determine whether students across the US are using crime rates when picking a university or college to attend. Using a university’s matriculation rate as a response and crime rates as covariates, we fit a beta regression, first without and then accounting for spatial autocorrelation. Given the evidence that the impact of crime rates may vary for universities with different matriculation rates, we lastly fit a quantile regression to show that only a small range of universities are marginally affected by the area’s crime rate. This trend speaks to the apparent lack of student care in crime rates in the university’s town or city, and given the importance of local crime in learning, students should be made more aware of the importance of crime rates in the colleges they plan on attending.\n\nClick Here to View the Full Paper"
   },
   {
     "objectID": "index.html",
@@ -42,13 +49,6 @@
     "text": "Robbie Michael Ferrand\n\n  \n\n  📊Statistician/Data Scientist\n\n  📍 Raleigh, North Carolina\n\n  🎓 M.R in Statistics\n\n  🏫 North Carolina State University\n\n  \n\n    ✉ Email\n\n    🔗 LinkedIn\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\nHobbies and Interests\n\n🎾 I’m an avid Tennis enjoyer. I play at the 3.5/4.0 NTRP level and consider myself an aggressive baseliner.\n🏃 I am a (newbie!) long-distance runner. Hoping to run some more half-marathons in 2025 and run a full marathon in 2026. I love to run in forested, shrubby environments where nature is aplenty!\n☀️️ I’m from Florida, specifically the Tampa/Orlando areas. Although the beach has my heart forever, I enjoy the moderate climate in the Carolinas and plan to reside here permanently. :)\n🗣️ I love public speaking - teaching was a lot of fun because it gave me an avenue to explore speaking to a large group regularly. When I present my research and ideas, I prefer the room to be large and the audience to be full.\n🎮 I tend to enjoy board games and video games, particularly the fast-paced competitive kind. Whatever allows me to coordinate with my friends and kick butt!"
   },
   {
-    "objectID": "matric.html",
-    "href": "matric.html",
-    "title": "Crime Rate and Matriculation Rate - Robbie Ferrand",
-    "section": "",
-    "text": "Crime Rate and Matriculation Rate\n\n\nProject Abstract:\n\n\nGiven the evidence that crime rates affect the learning ability of middle and high school students, this analysis focuses on trying to determine whether students across the US are using crime rates when picking a university or college to attend. Using a university’s matriculation rate as a response and crime rates as covariates, we fit a beta regression, first without and then accounting for spatial autocorrelation. Given the evidence that the impact of crime rates may vary for universities with different matriculation rates, we lastly fit a quantile regression to show that only a small range of universities are marginally affected by the area’s crime rate. This trend speaks to the apparent lack of student care in crime rates in the university’s town or city, and given the importance of local crime in learning, students should be made more aware of the importance of crime rates in the colleges they plan on attending.\n\nClick Here to View the Full Paper"
-  },
-  {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects - Robbie Ferrand",
@@ -56,10 +56,10 @@
     "text": "Robbie Michael Ferrand\n\n  \n\n  📊Statistician/Data Scientist\n\n  📍 Raleigh, North Carolina\n\n  🎓 M.R in Statistics\n\n  🏫 North Carolina State University\n\n  \n\n    ✉ Email\n\n    🔗 LinkedIn\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\nProjects\n\nThe following projects are the most recent self-directed projects I have completed.\nMobile Data Exploratory Analysis is an RShiny-based project that creates an interactive app for users to numerically and graphically explore a Mobile Behavior data set. App was created to fulfill project requirements for ST558, Data Science for Statisticians. The App has been ported from The ShinyApps Website\nKeywords: Exploratory data analysis, ggplot, rshiny, mobile behavior, client-centered, interactive, download, subsetting, categorical analysis, numerical analysis, facet wrap\nMetal Concentration in Turtles is an R-based project concerning the investigation of urbanization on freshwater turtles. My partner and I were offered (and accepted) co-authorship on the client’s paper due to our statistical contributions.\nKeywords: high-dimensional statistical modeling, lasso regression, Redundancy Analysis (RDA), Best subsets regression, rank analysis, exploratory data analysis, turtles, proxy, urbanization, metals\nAre Students Using the Right Criteria When Choosing Schools? is a paper completed for ST704, Statistical Methods II. This paper uses multiple advanced statistical techniques to analyze complex data, such as Beta Regression, Quantile Regression, and Spatial Regression. Paper was crafted alongside professional presentation for ST704, Statistical Methods II.\nKeywords: Beta regression, spatial modeling, spatial covariate, quantile regression, crime rate, university matriculation, college, pinball loss function, student, United States"
   },
   {
-    "objectID": "turtles.html",
-    "href": "turtles.html",
-    "title": "Project: Turtle Metals - Robbie Ferrand",
+    "objectID": "resume/index.html",
+    "href": "resume/index.html",
+    "title": "Resume - Robbie Ferrand",
     "section": "",
-    "text": "Freshwater Turtles - Urbanization and Metal Concentrations"
+    "text": "Robbie Michael Ferrand\n\n  \n\n  📊Statistician/Data Scientist\n\n  📍 Raleigh, North Carolina\n\n  🎓 M.R in Statistics\n\n  🏫 North Carolina State University\n\n  \n\n    ✉ Email\n\n    🔗 LinkedIn\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\nResume\n\nFullscreen Edition Here"
   }
 ]
