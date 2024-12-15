@@ -331,11 +331,11 @@ ul.task-list li input[type="checkbox"] {
 <h1>
 Education
 </h1>
-<div style="margin-bottom: 50px;">
-<!-- Wrapper for first section -->
-<div style="display: flex; align-items: center; gap: 20px;">
-<img src="../images/ncsu.jpg" alt="ncsu" style="width: 200px; height: auto;">
-<div>
+<div style="margin-bottom: 50px; display: flex; align-items: flex-start; gap: 20px;">
+<div style="flex-shrink: 0;">
+<p><img src="../images/ncsu.jpg" alt="ncsu" style="width: 200px; height: auto;"></p>
+</div>
+<div style="display: flex; flex-direction: column; justify-content: flex-start; margin-top: 10px;">
 <p style="margin: 0;">
 North Carolina State University
 </p>
@@ -354,14 +354,55 @@ GPA: 3.733/4.0
 <p style="margin: 0;">
 University Graduate Fellowship
 </p>
+<!-- Button for toggling -->
+<button class="read-more-toggle" data-target="#dhs-roles" style="margin-top: 10px;">
+Relevant Coursework
+</button>
+<!-- Content to show/hide with transition -->
+<div id="dhs-roles" class="courses-content" style="max-height: 0; overflow: hidden; transition: max-height 0.3s ease-out;">
+<ul style="margin-top: 10px;">
+<li>
+<strong>ST701 - (PhD) Statistical Theory I</strong>: Properties of random variables, transformations of random variables, expected values, moment generating functions, multivariate distributions, marginal and conditional distributions, convergence
+</li>
+<li>
+<strong>ST702 - (PhD) Statistical Theory II</strong>: General framework for statistical inference, biased and unbiased estimators, minimum variance estimators, least mean square error, maximum likelihood, asymptotic properties, likelihood ratio tests, efficiency, sufficiency
+</li>
+<li>
+<strong>ST703 - (PhD) Statistical Methods I</strong>: Multiple linear regression, ANOVA, experimental design, factorial experiments, random effects modeling, introduction to SAS, F-tests, nested F-tests, analysis of model metrics
+</li>
+<li>
+<strong>ST704 - (PhD) Statistical Methods II</strong>: model generation, model selection and assessment, diagnostics of multiple and penalized regression, linear mixed models, GLM, GLMM, nonparametric regression, smoothing and splines, finite-population sampling basics
+</li>
+<li>
+<strong>ST705 - (PhD) Linear Models and Variance Components</strong>: Theory of estimation and testing in full and non-full rank linear models, normal theory distribution properties, Gauss-Markov theorem, estimability and properties of best linear unbiased estimators, dummy variable methods, variance components estimation for balanced data, matrix representation of hypothesis testing
+</li>
+<li>
+<strong>ST531 - Experimental Design</strong>: Types of experimental designs and their functions, ANOVA, completely randomized designs, completely randomized block design, balanced block design, incomplete block designs, latin square designs, mixed effects models, confounded factorials, split plot designs, fractional factorial designs
+</li>
+<li>
+<strong>ST542 - Statistical Consulting</strong>: Offers a discussion-based introduction geared towards statistical practice, provide a client-centered product, communicate professionally, write structured research papers, understand statistical ethics
+</li>
+<li>
+<strong>ST555 - SAS Programming I</strong>: Industry standard for statistical practice, data vectors, import/validate/export data files, manipulate/subset/group data, merge and append data, summary reporting and code debugging
+</li>
+<li>
+<strong>ST558 - Data Science for Statisticians</strong>: Methods for reading, manipulating, and combining data sources including databases in R, Custom functions, visualizations, summaries and creating visual dashboards.
+</li>
+<li>
+<strong>ST563 - Statistical Learning</strong>: Supervised and unsupervised statistical learning techniques, regression, classification, clustering, dimension reduction, regularized regression, bootstrap, cross-validation, discriminant analysis, random forests, bagging, boosting
+</li>
+</ul>
 </div>
 </div>
 </div>
 <div>
 <!-- Wrapper for second section -->
-<div style="display: flex; align-items: center; gap: 20px;">
-<img src="../images/ucf.png" alt="ucf" style="width: 200px; height: auto;">
-<div>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+<div style="flex-shrink: 0;">
+<p><img src="../images/ucf.png" alt="ucf" style="width: 200px; height: auto;"></p>
+</div>
+<div style="display: flex; flex-direction: column; justify-content: flex-start; margin-top: 10px;">
 <p style="margin: 0;">
 University of Central Florida
 </p>
@@ -380,14 +421,28 @@ GPA: 4.0/4.0
 <p style="margin: 0;">
 Duke Energy Undergraduate Research Fellowship
 </p>
-</div>
-</div>
-</div>
-</div>
+<script>
+document.querySelectorAll('.read-more-toggle').forEach(button => {
+button.addEventListener('click', () => {
+const targetId = button.getAttribute('data-target');
+const targetContent = document.querySelector(targetId);
+const isVisible = targetContent.style.maxHeight !== '0px';
+
+// Toggle maxHeight for smooth expansion/collapse
+if (isVisible) {
+targetContent.style.maxHeight = '0';
+button.textContent = 'Relevant Coursework';
+} else {
+targetContent.style.maxHeight = targetContent.scrollHeight + 'px';
+button.textContent = 'Hide Relevant Coursework';
+}
+});
+});
+</script>
 
 
 
-</main> <!-- /main -->
+</div></div></div></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

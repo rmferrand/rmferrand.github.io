@@ -125,3 +125,23 @@ a:hover {
 }
 
 
+.read-more-toggle {
+    background-color: #FF5733; /* Primary button color */
+    color: white; /* Text color */
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+    padding: 10px 15px; /* Add padding */
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.read-more-toggle:hover {
+    background-color: #FF4500; /* Darker blue on hover */
+    transform: scale(1.05); /* Slightly enlarge the button */
+}
+
+.read-more-toggle:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(255, 87, 51, 0.7);
+}
