@@ -8,16 +8,22 @@ format:
 ::: {#page-content}
 <h1>Projects</h1>
 
+[Mobile Data Exploratory Analysis](mobiledata/index.html) (October 2024) is an RShiny-based project that creates an interactive dashboard app for users to numerically and graphically explore a Mobile Behavior data set. App was created to fulfill project requirements for ST558, Data Science for Statisticians. The app has been ported from [The ShinyApps Website](https://rmferran.shinyapps.io/project_2_558/).
 
-[Metal Concentration in Turtles](turtles/index.html) is an R-based project concerning the investigation of urbanization on freshwater turtles. My partner and I were offered (and accepted) co-authorship on the client's paper due to our statistical contributions.
+<p> **Keywords:** Exploratory data analysis, ggplot, rshiny, mobile behavior, client-centered, interactive, download, subsetting, categorical analysis, numerical analysis, facet wrap </p>
 
-**Keywords:** high-dimensional statistical modeling, lasso regression, Redundancy Analysis (RDA), Best subsets regression, rank analysis, exploratory data analysis, turtles, proxy, urbanization, metals
+<div style="text-align: center;">
+<a href="/projects/mobiledata/">
+<img src="../images/previewmobile.PNG" alt="preview of mobile data analysis" style="width:50%; border: 2px solid black;">
+</a>
+<p style="margin-top: 10px; font-size: 14px;">Preview of Mobile Data Analysis Project</p>
+</div>
 
 <br>
 
-[Are Students Using the Right Criteria When Choosing Schools?](matriculation/index.html) is a [paper completed for ST704, Statistical Methods II](../assets/MatricRateCrimeRate.pdf). This paper uses multiple advanced statistical techniques to analyze complex data, such as Beta Regression, Quantile Regression, and Spatial Regression.
+[Are Students Using the Right Criteria When Choosing Schools?](matriculation/index.html) (April 2024) is a [paper completed for ST704, Statistical Methods II](../assets/MatricRateCrimeRate.pdf). This paper uses multiple advanced statistical techniques to analyze complex data, such as Beta Regression, Quantile Regression, and Spatial Regression.
 
-**Keywords:** Beta regression, spatial modeling, spatial covariate, quantile regression, crime rate, university matriculation, college, pinball loss function, student, United States
+<p> **Keywords:** Beta regression, spatial modeling, spatial covariate, quantile regression, crime rate, university matriculation, college, pinball loss function, student, United States </p>
 
 <div style="text-align: center;">
 <a href="../assets/MatricRateCrimeRate.pdf">
@@ -29,14 +35,18 @@ format:
 
 <br>
 
-[Mobile Data Exploratory Analysis](mobiledata/index.html) is an RShiny-based project that creates an interactive dashboard app for users to numerically and graphically explore a Mobile Behavior data set. App was created to fulfill project requirements for ST558, Data Science for Statisticians. The App has been ported from [The ShinyApps Website](https://rmferran.shinyapps.io/project_2_558/).
+<div style="text-align: center;">
+<h4> Coming Soon! </h4>
+</div>
 
-<p> **Keywords:** Exploratory data analysis, ggplot, rshiny, mobile behavior, client-centered, interactive, download, subsetting, categorical analysis, numerical analysis, facet wrap </p>
+Metal Concentration in Turtles (December 2024) is an R-based project concerning the investigation of urbanization on freshwater turtles. My partner and I were offered (and accepted) co-authorship on the client's paper due to our statistical contributions.
+
+<p> **Keywords:** high-dimensional statistical modeling, lasso regression, Redundancy Analysis (RDA), Best subsets regression, rank analysis, exploratory data analysis, turtles, proxy, urbanization, metals </p>
 
 <div style="text-align: center;">
-<a href="/projects/mobiledata/">
-<img src="../images/previewmobile.PNG" alt="preview of mobile data analysis" style="width:50%; border: 2px solid black;">
-</a>
-<p style="margin-top: 10px; font-size: 14px;">Preview of Mobile Data Analysis Project</p>
+<img src="../images/previewturtlerank.PNG" alt="preview of turtles" style="width:50%; border: 2px solid black;">
+<p style="margin-top: 10px; font-size: 14px;">Preview of Turtle Urbanization Project</p>
 </div>
+
+
 :::

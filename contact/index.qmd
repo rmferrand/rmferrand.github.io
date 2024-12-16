@@ -7,7 +7,7 @@ format:
 
 
 <div id="page-content">
-<h1> Conact Me </h1>
+<h1> Contact Me </h1>
 
 <p> Here are some other places where you can find me or reach out to me:
 
