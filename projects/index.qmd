@@ -45,7 +45,7 @@ Metal Concentration in Turtles (December 2024) is an R-based project concerning 
 
 <div style="text-align: center;">
 <img src="../images/previewturtlerank.PNG" alt="preview of turtles" style="width:50%; border: 2px solid black;">
-<p style="margin-top: 10px; font-size: 14px;">Preview of Turtle Urbanization Project</p>
+<p style="margin-top: 10px; font-size: 14px;">Preview of Turtle Urbanization Project. Sites (Y-axis) are censored due to ongoing research project.</p>
 </div>
 
 
